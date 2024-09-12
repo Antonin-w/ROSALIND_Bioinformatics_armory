@@ -1,5 +1,4 @@
 from Bio import SeqIO
-from math import floor
 
 def number_reads_filtered(quality_threshold, percentage_bases, fastq_file):
 
