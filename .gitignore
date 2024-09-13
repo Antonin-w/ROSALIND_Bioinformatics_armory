@@ -1,3 +1,2 @@
-test_files/fasta.fasta 
-test_files/fastq1.fastq
+test_files/*
 __pycache__
